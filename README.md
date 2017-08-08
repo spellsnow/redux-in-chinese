@@ -137,6 +137,8 @@ store.dispatch({ type: 'DECREMENT' });
 
 #### [开始观看 30 个免费视频！](https://egghead.io/series/getting-started-with-redux)
 
+### 中文字幕 30个免费视频 (https://space.bilibili.com/1914909#!/)
+
 ### 文档
 
 * [介绍](http://camsong.github.io/redux-in-chinese//docs/introduction/index.html)
